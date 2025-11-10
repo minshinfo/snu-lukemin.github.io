@@ -15,10 +15,10 @@ E-mail
 You can contact me via e-mail.
 
 + For academic purpose:
-    + minsh (at) snu (dot) ac (dot) kr
-    + me (at) minsh (dot) info
+    + minsh@snu.ac.kr
+    + me@minsh.info
 + For personal purpose:
-    + lukemin (at) pm.me
+    + lukemin@pm.me
 
 Social Media
 --------------------
