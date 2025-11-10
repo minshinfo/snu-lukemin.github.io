@@ -51,6 +51,10 @@ Journals
 Preprints
 --------------------------------
 
++ Distributed Key Generation for Efficient Threshold-CKKS
+    + **Seonhong Min**, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé
+    + In Submission [(ePrint)][15]
+
 + Multi-key Fully Homomorphic Encryption with Non-Interactive Setup in the Plain Model
     + (α-β order) **Seonhong Min**, Jeongeun Park, Yongsoo Song
     + In Submission
@@ -90,3 +94,4 @@ Preprints
 [12]: https://eprint.iacr.org/2025/429
 [13]: https://eprint.iacr.org/2025/1255
 [14]: https://eprint.iacr.org/2025/1804
+[15]: https://eprint.iacr.org/2025/2057
