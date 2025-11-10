@@ -18,7 +18,7 @@ You can contact me via e-mail.
     + minsh@snu.ac.kr
     + me@minsh.info
 + For personal purpose:
-    + lukemin@pm.me
+    + lukieboy@pm.me
 
 Social Media
 --------------------
