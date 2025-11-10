@@ -14,7 +14,11 @@ E-mail
 --------------------
 You can contact me via e-mail.
 
-+ me (at) minsh (dot) info
++ For academic purpose:
+    + minsh (at) snu (dot) ac (dot) kr
+    + me (at) minsh (dot) info
++ For personal purpose:
+    + lukemin (at) pm.me
 
 Social Media
 --------------------

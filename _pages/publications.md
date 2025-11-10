@@ -51,13 +51,13 @@ Journals
 Preprints
 --------------------------------
 
-+ Distributed Key Generation for Efficient Threshold-CKKS
-    + **Seonhong Min**, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé
-    + In Submission [(ePrint)][15]
-
 + Multi-key Fully Homomorphic Encryption with Non-Interactive Setup in the Plain Model
     + (α-β order) **Seonhong Min**, Jeongeun Park, Yongsoo Song
     + In Submission
+
++ Distributed Key Generation for Efficient Threshold-CKKS
+    + **Seonhong Min**, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé
+    + In Submission [(ePrint)][15]
 
 + HELIOS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping
     + Binwu Xiang, **Seonhong Min**, Intak Hwang, Zhiwei Wang, Haoqi He, Yuanju Wei, Kang Yang, Jiang Zhang, Yi Deng, Yu Yu

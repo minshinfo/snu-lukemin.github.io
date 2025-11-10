@@ -13,6 +13,12 @@ Experiences / Education
 + Exchange programme, Glasgow University, Aug 2019 - Dec 2019.
 + Daegu Science High School, Mar 2015 - Feb 2018.
 
+Honors & Awards
+------------------------
++ Korea Cryptography Contest 2025, 3rd Place & 4rd Place
++ Korea Cryptography Contest 2024, 3rd Place
++ Korea Cryptography Contest 2023, 4rd Place
+
 Github Repositories
 ------------------------
 + Multi-key TFHE [https://github.com/SNUCP/MKTFHE]
