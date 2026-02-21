@@ -9,6 +9,10 @@ layout: post
 Conferences
 --------------------------------
 
++ HERDS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping
+    + Binwu Xiang, **Seonhong Min**, Intak Hwang, Zhiwei Wang, Haoqi He, Yuanju Wei, Kang Yang, Jiang Zhang, Yi Deng, Yu Yu
+    + EUROCRYPT 2026 [(ePrint)][14]
+
 + On the Security and Privacy of CKKS-based Homomorphic Evaluation Protocols
     + (α-β order) Intak Hwang, **Seonhong Min**, Jinyeong Seo, Yongsoo Song
     + ASIACRYPT 2025 [(ePrint)][11]
@@ -53,15 +57,11 @@ Preprints
 
 + Multi-key Fully Homomorphic Encryption with Non-Interactive Setup in the Plain Model
     + (α-β order) **Seonhong Min**, Jeongeun Park, Yongsoo Song
-    + In Submission
+    + In Submission [(ePrint)][16]
 
 + Distributed Key Generation for Efficient Threshold-CKKS
     + **Seonhong Min**, Guillaume Hanrot, Jai Hyun Park, Alain Passelègue, Damien Stehlé
     + In Submission [(ePrint)][15]
-
-+ HELIOS: Multi-Key Fully Homomorphic Encryption with Sublinear Bootstrapping
-    + Binwu Xiang, **Seonhong Min**, Intak Hwang, Zhiwei Wang, Haoqi He, Yuanju Wei, Kang Yang, Jiang Zhang, Yi Deng, Yu Yu
-    + In Submission [(ePrint)][14]
 
 + Ciphertext-Simulatable HE from BFV with Randomized Evaluation
     + (α-β order) Intak Hwang, **Seonhong Min**, Yongsoo Song
@@ -95,3 +95,4 @@ Preprints
 [13]: https://eprint.iacr.org/2025/1255
 [14]: https://eprint.iacr.org/2025/1804
 [15]: https://eprint.iacr.org/2025/2057
+[16]: https://eprint.iacr.org/2026/322

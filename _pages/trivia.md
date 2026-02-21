@@ -20,7 +20,6 @@ Skills
 10 Best Albums of All Time (Chronological Order)
 --------------------
 + Abbey Road (The Beatles)
-+ The Stranger (Billy Joel)
 + The Queen Is Dead (The Smiths)
 + Graceland (Paul Simon)
 + Reading Writing And Arithmetic (The Sundays)
@@ -29,6 +28,7 @@ Skills
 + The Man Who (Travis)
 + SMiLE (Brian Wilson)
 + 소음의 왕 (전자양)
++ The Scholars (Car Seat Headrest)
 
 Art
 --------------------
@@ -38,4 +38,6 @@ Art
     + Greyer Albion (Eleanor Alex Rigby), EP, 2021.
     + My Magical Romance (Sophie's Magic Diary), Single, 2024.
     + Buena Vista Soya Club (Sophie's Magic Diary), Single, 2025.
+    + Idoldance (Sophie's Magic Diary), Single, 2026.
+    + The Magic Horror Picture Show (Sophie's Magic Diary), Single, 2026.
     + And many coming up...
